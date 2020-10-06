@@ -1,0 +1,8 @@
+#vim buffer
+*~
+*.sw?
+
+#node
+node_modules/*
+.env
+.eslintrc.yml
